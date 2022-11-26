@@ -1,0 +1,5 @@
+name: SandCastle
+author: Despical
+version: ${project.version}
+api-version: 1.13
+main: me.despical.sandcastle.Main
